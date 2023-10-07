@@ -2,8 +2,8 @@
 
 <h4 align="center">Welcome to my github page</h4>
 <h1 align="center">Hi 👋 I'm Pham Anh Tuan</h1>
-<br/>
 <p align="center">Tôi là một nhà phát triển phần mềm đam mê với kinh nghiệm xây dựng các ứng dụng web frontend</h1>
+<br/>
 
 **Phamtuan19/Phamtuan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
