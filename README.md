@@ -10,9 +10,12 @@
 
 -   🔭 I’m currently working on **React Js**
     <br>
+    <br>
 -   📫 How to reach me **phamtuan19hd@gmail.com**
     <br>
+    <br>
 -   💬 Ask me about **Javascript, ReactJS**
+    <br>
     <br>
 -   👨‍💻 Business contact with me!!!
     <br>
