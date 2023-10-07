@@ -5,7 +5,7 @@
 <br/>
 <p align="center">Tôi là một nhà phát triển phần mềm đam mê với kinh nghiệm xây dựng các ứng dụng web frontend</h1>
 
-<audio controls>
+<audio autoplay>
   <source src="./audio/dreamy-meadow-157900.mp3" type="audio/mpeg">
 </audio>
 
