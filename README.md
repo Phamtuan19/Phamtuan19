@@ -58,6 +58,22 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Material-Ui-282C34?logo=mui&logoColor=007FFF" alt="Material-Ui logo" title="Material-Ui" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MaterialUi-282C34?logo=mui&logoColor=007FFF" alt="Material-Ui logo" title="Material-Ui" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/AntDesign-282C34?logo=antdesign&logoColor=0170FE" alt="Material-Ui logo" title="Ant Design" height="25" /></span>
+<span><img src="https://img.shields.io/badge/php-282C34?logo=antdesign&logoColor=777BB4" alt="php logo" title="PHP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="laravel logo" title="Laravel" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySql-282C34?logo=mysql&logoColor=4479A1" alt="mysql logo" title="MySQL" height="25" /></span>
 &nbsp;
 <br>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<div align="center">
+  <a href="https://www.facebook.com/anhtuanoo1" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="anhtuanoo1-facebook" />
+  </a>
+  <a href="mailto:phamtuan19hd@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="phamtuan19hd-email" />
+  </a>
+</div>
