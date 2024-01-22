@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=979181143969738446" height="400" width="345" frameborder="0" scrolling="no" ></iframe>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/e0/ee/7f/e0ee7ff6f2786a8e9c461e7a3b34c84d.gif" width="346" height="300">
 
 -   🔭 I’m currently working on **React Js**
     <br>
